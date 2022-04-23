@@ -1,2 +1,4 @@
 lorem
 A to jest drugie lorem ipsum
+dodaję tekst oprócz nowego pliku
+f0.txt
